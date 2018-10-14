@@ -1,0 +1,134 @@
+2018-04-03 12:50:45,userid,enviroment,scheme,mode,event,category,result,user taps,generated taps,attempts,sequence,generated sequence,sound
+2018-04-03 12:51:04,pgRMjbU,android,rhythm,generate,register,Bank,success,4,4,0,"[629, 947, 811]","[535, 636, 767]",OFF
+2018-04-03 12:51:18,pgRMjbU,android,rhythm,generate,register,Bank,failed,2,4,1,[1237],"[701, 413, 511]",OFF
+2018-04-03 12:52:20,pgRMjbU,android,rhythm,generate,register,Bank,failed,4,4,1,"[704, 698, 712]","[536, 442, 810]",OFF
+2018-04-03 12:52:32,pgRMjbU,android,rhythm,generate,register,Bank,failed,4,4,2,"[534, 739, 1192]","[536, 442, 810]",OFF
+2018-04-03 12:52:43,pgRMjbU,android,rhythm,generate,register,Bank,failed,4,4,3,"[486, 556, 1485]","[536, 442, 810]",OFF
+2018-04-03 12:55:48,pqShckI,android,rhythm,generate,register,Bank,failed,4,4,1,"[580, 779, 721]","[309, 642, 919]",ON
+2018-04-03 12:56:02,pqShckI,android,rhythm,generate,register,Bank,success,4,4,1,"[480, 760, 1040]","[309, 642, 919]",ON
+2018-04-03 12:56:16,pqShckI,android,rhythm,generate,register,Bank,success,5,5,0,"[860, 800, 820, 360]","[813, 718, 666, 326]",OFF
+2018-04-03 12:56:37,pqShckI,android,rhythm,generate,register,Email,failed,5,5,1,"[801, 779, 800, 480]","[741, 838, 441, 814]",OFF
+2018-04-03 12:56:50,pqShckI,android,rhythm,generate,register,Email,failed,5,5,2,"[879, 842, 839, 640]","[741, 838, 441, 814]",OFF
+2018-04-03 12:57:06,pqShckI,android,rhythm,generate,register,Shopping,failed,5,5,1,"[820, 800, 799, 381]","[707, 995, 727, 206]",OFF
+2018-04-03 12:57:19,pqShckI,android,rhythm,generate,register,Shopping,failed,8,5,2,"[121, 118, 1622, 860, 720, 760, 340]","[707, 995, 727, 206]",OFF
+2018-04-03 12:57:33,pqShckI,android,rhythm,generate,register,Shopping,failed,5,5,3,"[761, 779, 879, 362]","[707, 995, 727, 206]",OFF
+2018-04-03 12:57:49,pqShckI,android,rhythm,generate,register,Social,success,4,4,0,"[804, 756, 840]","[725, 901, 642]",ON
+2018-04-03 13:24:04,NydjXnE,android,rhythm,generate,register,Bank,success,4,4,0,"[803, 548, 1004]","[480, 409, 846]",ON
+2018-04-03 13:24:19,NydjXnE,android,rhythm,generate,register,Bank,failed,4,4,1,"[532, 1314, 424]","[593, 792, 495]",ON
+2018-04-03 13:24:38,NydjXnE,android,rhythm,generate,register,Bank,failed,5,5,1,"[735, 811, 397, 544]","[876, 886, 218, 895]",ON
+2018-04-03 13:24:49,NydjXnE,android,rhythm,generate,register,Bank,failed,37,5,2,"[198, 170, 173, 130, 177, 150, 143, 168, 139, 169, 158, 177, 175, 151, 158, 155, 184, 161, 165, 190, 243, 189, 235, 185, 196, 158, 195, 184, 192, 198, 202, 193, 230, 219, 221, 181]","[876, 886, 218, 895]",OFF
+2018-04-03 13:25:03,NydjXnE,android,rhythm,generate,register,Bank,failed,19,5,1,"[22, 2326, 183, 834, 176, 151, 175, 161, 163, 181, 188, 163, 143, 178, 170, 189, 172, 178]","[426, 921, 317, 700]",OFF
+2018-04-03 13:25:11,NydjXnE,android,rhythm,generate,register,Bank,failed,27,5,2,"[1972, 166, 169, 170, 175, 166, 185, 177, 157, 177, 158, 148, 192, 170, 173, 179, 177, 167, 174, 173, 194, 177, 186, 171, 166, 195]","[426, 921, 317, 700]",OFF
+2018-04-03 13:25:19,NydjXnE,android,rhythm,generate,register,Bank,failed,2,5,3,[113],"[426, 921, 317, 700]",OFF
+2018-04-03 14:38:52,ZzLppZz,android,rhythm,generate,register,Bank,failed,5,5,1,"[646, 818, 1489, 576]","[531, 348, 867, 981]",OFF
+2018-04-03 14:39:30,ZzLppZz,android,rhythm,generate,register,Bank,failed,5,5,2,"[806, 645, 1271, 568]","[531, 348, 867, 981]",OFF
+2018-04-03 14:39:47,ZzLppZz,android,rhythm,generate,register,Bank,failed,5,5,3,"[440, 496, 1242, 1068]","[531, 348, 867, 981]",ON
+2018-04-03 14:40:26,ZzLppZz,android,rhythm,generate,register,Email,failed,5,5,1,"[562, 618, 908, 717]","[420, 643, 554, 988]",ON
+2018-04-03 14:40:44,ZzLppZz,android,rhythm,generate,register,Email,failed,5,5,2,"[582, 697, 938, 747]","[420, 643, 554, 988]",ON
+2018-04-03 14:41:04,ZzLppZz,android,rhythm,generate,register,Email,failed,5,5,1,"[613, 769, 859, 979]","[847, 749, 560, 915]",ON
+2018-04-03 14:41:38,ZzLppZz,android,rhythm,generate,register,Email,failed,3,4,1,"[1131, 540]","[491, 755, 270]",ON
+2018-04-03 14:41:56,ZzLppZz,android,rhythm,generate,register,Email,failed,4,4,2,"[1131, 600, 771]","[491, 755, 270]",ON
+2018-04-03 14:42:26,ZzLppZz,android,rhythm,generate,register,Email,success,4,4,2,"[827, 1550, 466]","[491, 755, 270]",ON
+2018-04-03 14:49:12,nRzpTww,android,rhythm,generate,register,Bank,failed,5,5,1,"[601, 1087, 2184, 396]","[435, 728, 268, 543]",OFF
+2018-04-03 14:49:26,nRzpTww,android,rhythm,generate,register,Bank,success,5,5,1,"[767, 1134, 612, 828]","[435, 728, 268, 543]",ON
+2018-04-03 14:50:09,nRzpTww,android,rhythm,generate,register,Email,success,4,4,0,"[693, 738, 1014]","[469, 420, 817]",ON
+2018-04-03 14:50:39,nRzpTww,android,rhythm,generate,register,Social,success,5,5,0,"[546, 679, 836, 599]","[630, 756, 882, 684]",ON
+2018-04-03 14:50:57,nRzpTww,android,rhythm,generate,register,Other,success,5,5,0,"[530, 599, 711, 257]","[669, 688, 830, 326]",ON
+2018-04-03 14:55:38,nRzpTww,android,rhythm,generate,register,Email,success,5,5,0,"[539, 1327, 1054, 720]","[246, 720, 537, 502]",ON
+2018-04-03 14:56:00,fSwAdvd,android,rhythm,generate,register,Shopping,failed,5,5,1,"[402, 748, 469, 647]","[263, 462, 735, 696]",OFF
+2018-04-03 14:56:18,fSwAdvd,android,rhythm,generate,register,Social,failed,6,4,1,"[1176, 1090, 561, 205, 492]","[639, 272, 355]",OFF
+2018-04-03 14:56:33,fSwAdvd,android,rhythm,generate,register,Social,failed,5,4,2,"[691, 789, 515, 576]","[639, 272, 355]",OFF
+2018-04-03 14:56:45,fSwAdvd,android,rhythm,generate,register,Social,failed,5,4,3,"[1106, 530, 937, 830]","[639, 272, 355]",OFF
+2018-04-03 15:00:09,fSwAdvd,android,rhythm,generate,register,Email,failed,4,5,1,"[625, 669, 613]","[693, 396, 876, 392]",OFF
+2018-04-03 15:00:25,fSwAdvd,android,rhythm,generate,register,Email,failed,5,5,1,"[749, 815, 704, 675]","[932, 323, 705, 496]",ON
+2018-04-03 15:01:13,fSwAdvd,android,rhythm,generate,register,Email,failed,5,5,1,"[1073, 784, 792, 1035]","[913, 848, 865, 466]",ON
+2018-04-03 15:01:35,fSwAdvd,android,rhythm,generate,register,Email,failed,5,5,2,"[703, 833, 735, 811]","[913, 848, 865, 466]",ON
+2018-04-03 15:01:47,fSwAdvd,android,rhythm,generate,register,Email,failed,5,5,3,"[785, 826, 610, 803]","[913, 848, 865, 466]",ON
+2018-04-03 15:02:27,fSwAdvd,android,rhythm,generate,register,Email,success,5,5,0,"[1103, 540, 1006, 775]","[738, 367, 950, 696]",ON
+2018-04-03 15:02:53,fSwAdvd,android,rhythm,generate,register,Bank,failed,3,4,1,"[562, 536]","[317, 511, 265]",ON
+2018-04-03 15:03:05,fSwAdvd,android,rhythm,generate,register,Bank,failed,4,4,2,"[906, 495, 653]","[317, 511, 265]",ON
+2018-04-03 15:03:22,nRzpTww,android,rhythm,generate,register,Bank,success,4,4,2,"[486, 558, 418]","[317, 511, 265]",OFF
+2018-04-03 15:07:50,nRzpTww,android,rhythm,generate,register,Bank,failed,4,5,1,"[724, 1109, 437]","[826, 437, 623, 278]",OFF
+2018-04-03 15:08:05,nRzpTww,android,rhythm,generate,register,Bank,failed,5,5,2,"[851, 1169, 844, 608]","[826, 437, 623, 278]",OFF
+2018-04-03 15:08:24,nRzpTww,android,rhythm,generate,register,Bank,success,5,5,2,"[1290, 729, 1275, 534]","[826, 437, 623, 278]",ON
+2018-04-03 15:09:13,nRzpTww,android,rhythm,generate,register,Email,success,4,4,0,"[335, 1226, 1421]","[293, 881, 971]",ON
+2018-04-03 15:09:34,nRzpTww,android,rhythm,generate,register,Shopping,success,5,5,0,"[821, 985, 1000, 1144]","[428, 647, 515, 571]",ON
+2018-04-03 15:19:07,nRzpTww,android,rhythm,generate,register,Bank,success,4,4,0,"[741, 1505, 672]","[408, 957, 532]",ON
+2018-04-03 15:19:33,nRzpTww,android,rhythm,generate,register,Email,success,5,5,0,"[359, 1103, 541, 370]","[257, 694, 252, 325]",ON
+2018-04-03 15:20:04,nRzpTww,android,rhythm,generate,register,Shopping,success,5,5,0,"[550, 1180, 1113, 1199]","[380, 815, 771, 860]",ON
+2018-04-03 15:20:26,nRzpTww,android,rhythm,generate,register,Social,success,4,4,0,"[917, 1003, 1058]","[687, 933, 810]",ON
+2018-04-03 15:20:42,nRzpTww,android,rhythm,generate,register,Other,success,5,5,0,"[992, 518, 1150, 967]","[601, 206, 986, 486]",ON
+2018-04-03 15:25:43,nRzpTww,android,rhythm,generate,register,Shopping,failed,4,4,1,"[840, 331, 924]","[313, 233, 730]",ON
+2018-04-03 15:25:56,nRzpTww,android,rhythm,generate,register,Shopping,failed,4,4,2,"[822, 310, 1218]","[313, 233, 730]",ON
+2018-04-03 15:26:10,nRzpTww,android,rhythm,generate,register,Shopping,success,4,4,2,"[631, 327, 984]","[313, 233, 730]",ON
+2018-04-03 15:26:32,nRzpTww,android,rhythm,generate,register,Social,success,5,5,0,"[594, 1280, 393, 788]","[350, 840, 223, 584]",ON
+2018-04-03 15:27:12,nRzpTww,android,rhythm,generate,register,Bank,failed,5,5,1,"[706, 1145, 902, 367]","[935, 624, 675, 503]",OFF
+2018-04-03 15:27:27,nRzpTww,android,rhythm,generate,register,Bank,failed,5,5,2,"[1319, 500, 1048, 713]","[935, 624, 675, 503]",OFF
+2018-04-03 15:27:52,nRzpTww,android,rhythm,generate,register,Bank,failed,1,5,3,[],"[935, 624, 675, 503]",OFF
+2018-04-03 15:02:46,DnNdHAk,android,rhythm,generate,register,Bank,failed,6,5,1,"[1238, 1299, 1321, 1200, 1321]","[778, 808, 843, 857]",OFF
+2018-04-03 15:03:06,DnNdHAk,android,rhythm,generate,register,Bank,failed,7,5,2,"[1085, 1080, 1098, 1201, 1101, 1095]","[778, 808, 843, 857]",OFF
+2018-04-03 15:03:45,DnNdHAk,android,rhythm,generate,register,Bank,success,4,4,0,"[1206, 500, 480]","[844, 356, 257]",ON
+2018-04-03 15:04:27,DnNdHAk,android,rhythm,generate,register,Email,success,4,4,0,"[1060, 478, 402]","[732, 264, 262]",ON
+2018-04-03 15:05:11,DnNdHAk,android,rhythm,generate,register,Shopping,success,4,4,0,"[495, 1137, 823]","[415, 813, 643]",ON
+2018-04-03 15:05:43,DnNdHAk,android,rhythm,generate,register,Social,success,5,5,0,"[877, 1122, 600, 458]","[617, 479, 434, 284]",ON
+2018-04-03 15:06:15,DnNdHAk,android,rhythm,generate,register,Other,success,5,5,0,"[997, 701, 841, 518]","[746, 512, 492, 360]",ON
+2018-04-03 16:04:08,DnNdHAk,android,rhythm,generate,register,Other,success,4,4,0,"[630, 740, 740]","[404, 491, 429]",ON
+2018-04-03 16:04:29,DnNdHAk,android,rhythm,generate,register,Bank,failed,4,5,1,"[766, 1181, 659]","[825, 507, 806, 814]",OFF
+2018-04-03 16:04:52,DnNdHAk,android,rhythm,generate,register,Bank,failed,3,5,1,"[196, 243]","[968, 959, 972, 319]",OFF
+2018-04-03 16:05:01,DnNdHAk,android,rhythm,generate,register,Bank,success,5,5,1,"[1481, 1642, 1338, 439]","[968, 959, 972, 319]",OFF
+2018-04-03 16:05:26,DnNdHAk,android,rhythm,generate,register,Bank,failed,5,5,1,"[895, 1139, 1041, 1100]","[934, 832, 755, 729]",OFF
+2018-04-03 15:32:06,mtnzknv,android,rhythm,generate,register,Shopping,failed,10,5,1,"[201, 725, 231, 794, 324, 861, 263, 1667, 210]","[395, 742, 877, 705]",OFF
+2018-04-03 15:32:30,mtnzknv,android,rhythm,generate,register,Shopping,failed,8,5,2,"[171, 930, 272, 954, 226, 950, 229]","[395, 742, 877, 705]",OFF
+2018-04-03 15:32:53,mtnzknv,android,rhythm,generate,register,Shopping,failed,7,5,3,"[809, 1057, 849, 1191, 1108, 1204]","[395, 742, 877, 705]",OFF
+2018-04-03 15:33:28,mtnzknv,android,rhythm,generate,register,Shopping,failed,6,5,1,"[221, 958, 1085, 775, 235]","[502, 375, 703, 816]",ON
+2018-04-03 15:33:49,mtnzknv,android,rhythm,generate,register,Email,failed,4,5,1,"[974, 911, 901]","[652, 885, 783, 918]",ON
+2018-04-03 15:34:24,mtnzknv,android,rhythm,generate,register,Email,success,5,5,1,"[1214, 1037, 1176, 1759]","[652, 885, 783, 918]",ON
+2018-04-03 15:34:50,mtnzknv,android,rhythm,generate,register,Bank,failed,6,5,1,"[1182, 1048, 167, 1073, 1894]","[987, 652, 558, 382]",ON
+2018-04-03 15:35:08,mtnzknv,android,rhythm,generate,register,Bank,failed,5,5,2,"[898, 1115, 205, 971]","[987, 652, 558, 382]",ON
+2018-04-03 15:35:18,kieDsw,android,rhythm,generate,register,Bank,failed,6,5,3,"[1227, 1109, 192, 816, 1293]","[987, 652, 558, 382]",ON
+2018-04-03 15:35:51,kieDsw,android,rhythm,generate,register,Social,failed,6,5,1,"[1037, 714, 158, 809, 1504]","[568, 869, 929, 608]",ON
+2018-04-03 15:35:59,kieDsw,android,rhythm,generate,register,Social,failed,7,5,2,"[1371, 227, 968, 929, 1072, 1251]","[568, 869, 929, 608]",ON
+2018-04-03 15:36:35,kieDsw,android,rhythm,generate,register,Other,failed,4,4,1,"[1121, 228, 1034]","[583, 411, 624]",OFF
+2018-04-03 15:36:45,kieDsw,android,rhythm,generate,register,Other,failed,4,4,2,"[1196, 272, 928]","[583, 411, 624]",OFF
+2018-04-03 15:38:49,kieDsw,android,rhythm,generate,register,Other,failed,5,5,1,"[904, 801, 529, 191]","[819, 485, 323, 274]",OFF
+2018-04-03 15:39:00,kieDsw,android,rhythm,generate,register,Other,failed,5,4,1,"[453, 452, 789, 421]","[394, 380, 917]",OFF
+2018-04-03 15:39:12,kieDsw,android,rhythm,generate,register,Other,failed,6,5,1,"[675, 772, 618, 205, 482]","[733, 667, 506, 589]",OFF
+2018-04-03 15:39:20,kieDsw,android,rhythm,generate,register,Other,failed,6,5,2,"[698, 611, 838, 198, 445]","[733, 667, 506, 589]",OFF
+2018-04-03 15:39:30,kieDsw,android,rhythm,generate,register,Other,failed,4,4,1,"[905, 212, 513]","[440, 354, 523]",OFF
+2018-04-03 15:39:38,kieDsw,android,rhythm,generate,register,Other,failed,6,4,2,"[653, 912, 532, 209, 488]","[440, 354, 523]",OFF
+2018-04-03 15:39:50,kieDsw,android,rhythm,generate,register,Other,failed,5,4,1,"[836, 1102, 607, 374]","[614, 666, 567]",OFF
+2018-04-03 15:41:38,IRIYrdQ,android,rhythm,generate,register,Bank,success,4,4,0,"[1085, 721, 957]","[930, 483, 700]",OFF
+2018-04-03 15:42:19,IRIYrdQ,android,rhythm,generate,register,Email,failed,5,5,1,"[1089, 378, 1114, 634]","[528, 984, 427, 896]",OFF
+2018-04-03 15:42:48,IRIYrdQ,android,rhythm,generate,register,Email,failed,5,5,2,"[1403, 1033, 982, 461]","[528, 984, 427, 896]",OFF
+2018-04-03 15:43:02,IRIYrdQ,android,rhythm,generate,register,Email,failed,5,5,3,"[1001, 582, 1203, 915]","[528, 984, 427, 896]",OFF
+2018-04-03 15:43:23,IRIYrdQ,android,rhythm,generate,register,Shopping,failed,5,5,1,"[839, 260, 557, 422]","[301, 224, 719, 257]",ON
+2018-04-03 15:43:37,IRIYrdQ,android,rhythm,generate,register,Shopping,failed,5,5,2,"[305, 546, 1006, 708]","[301, 224, 719, 257]",ON
+2018-04-03 15:43:51,IRIYrdQ,android,rhythm,generate,register,Shopping,failed,5,5,3,"[645, 371, 701, 716]","[301, 224, 719, 257]",ON
+2018-04-03 16:15:39,IIVmtKA,android,rhythm,generate,register,Bank,failed,1,5,1,[],"[884, 785, 402, 288]",ON
+2018-04-03 16:15:57,IIVmtKA,android,rhythm,generate,register,Bank,success,4,4,0,"[617, 1269, 727]","[315, 951, 425]",ON
+2018-04-03 17:36:05,FHZwwiC,android,rhythm,generate,register,Bank,success,4,4,0,"[573, 524, 706]","[426, 470, 684]",ON
+2018-04-03 22:27:15,vnvUgtH,android,rhythm,generate,register,Bank,success,4,4,0,"[388, 697, 1065]","[221, 610, 523]",ON
+2018-04-03 22:27:30,vnvUgtH,android,rhythm,generate,register,Bank,success,4,4,0,"[1643, 938, 825]","[968, 517, 649]",ON
+2018-04-03 23:58:11,wIryODD,android,rhythm,generate,register,Bank,failed,4,4,1,"[1241, 386, 270]","[274, 783, 822]",ON
+2018-04-03 23:58:31,wIryODD,android,rhythm,generate,register,Bank,failed,4,4,2,"[598, 1010, 815]","[274, 783, 822]",ON
+2018-04-04 0:07:41,vQWulft,android,rhythm,generate,register,Bank,failed,4,4,1,"[659, 740, 661]","[723, 527, 836]",OFF
+2018-04-04 0:07:58,vQWulft,android,rhythm,generate,register,Bank,failed,4,4,2,"[1080, 582, 779]","[723, 527, 836]",ON
+2018-04-04 0:08:27,vQWulft,android,rhythm,generate,register,Bank,success,4,4,0,"[900, 295, 1086]","[755, 275, 544]",ON
+2018-04-04 0:09:48,vQWulft,android,rhythm,generate,register,Bank,success,5,5,0,"[698, 896, 501, 815]","[325, 659, 270, 526]",ON
+2018-04-04 0:10:46,vQWulft,android,rhythm,generate,register,Bank,success,4,4,0,"[1013, 1159, 842]","[951, 997, 943]",ON
+2018-04-04 13:05:07,drkEbwD,android,rhythm,generate,register,Bank,failed,4,4,1,"[821, 959, 240]","[611, 960, 381]",OFF
+2018-04-04 13:05:21,drkEbwD,android,rhythm,generate,register,Bank,failed,3,4,1,"[820, 1000]","[528, 711, 399]",ON
+2018-04-04 13:05:34,drkEbwD,android,rhythm,generate,register,Bank,failed,4,4,2,"[1022, 1119, 300]","[528, 711, 399]",ON
+2018-04-04 13:05:55,drkEbwD,android,rhythm,generate,register,Bank,success,4,4,0,"[1020, 982, 818]","[979, 921, 601]",OFF
+2018-04-04 13:11:20,mgLDTiB,android,rhythm,generate,register,Bank,failed,5,5,1,"[586, 468, 203, 436]","[709, 367, 224, 608]",ON
+2018-04-04 13:11:33,mgLDTiB,android,rhythm,generate,register,Bank,failed,5,5,2,"[740, 558, 240, 382]","[709, 367, 224, 608]",ON
+2018-04-04 13:12:03,mgLDTiB,android,rhythm,generate,register,Email,success,5,5,0,"[901, 959, 681, 620]","[816, 985, 579, 708]",ON
+2018-04-04 13:13:27,mgLDTiB,android,rhythm,generate,register,Shopping,failed,4,4,1,"[521, 761, 1119]","[337, 913, 679]",OFF
+2018-04-04 13:13:49,mgLDTiB,android,rhythm,generate,register,Shopping,failed,4,4,2,"[561, 959, 961]","[337, 913, 679]",OFF
+2018-04-04 13:14:04,mgLDTiB,android,rhythm,generate,register,Shopping,failed,4,4,3,"[560, 999, 702]","[337, 913, 679]",OFF
+2018-04-04 13:14:24,mgLDTiB,android,rhythm,generate,register,Shopping,failed,4,4,1,"[779, 541, 500]","[972, 328, 626]",OFF
+2018-04-04 14:37:18,igHTSOD,android,rhythm,generate,register,Bank,success,4,4,0,"[561, 519, 540]","[420, 327, 370]",ON
+2018-04-04 14:37:44,igHTSOD,android,rhythm,generate,register,Email,success,4,4,0,"[960, 441, 499]","[682, 325, 449]",ON
+2018-04-04 14:37:59,igHTSOD,android,rhythm,generate,register,Shopping,success,5,5,0,"[644, 558, 658, 621]","[528, 397, 414, 481]",ON
+2018-04-04 14:38:23,igHTSOD,android,rhythm,generate,register,Social,success,5,5,0,"[821, 559, 800, 560]","[723, 306, 515, 552]",ON
+2018-04-04 14:38:44,igHTSOD,android,rhythm,generate,register,Other,success,4,4,0,"[499, 800, 721]","[305, 536, 659]",ON
